@@ -50,7 +50,8 @@ The **Signlinformer** model utilizes Linformer variant of transformers to reduce
 
 This example shows the predicted keypoints for gesture translation using the Signlinformer model:
 
-![Keypoint Visualization](images/keypoints_visualization.png)
+<img width="902" height="568" alt="mpo" src="https://github.com/user-attachments/assets/bfbcb3ac-6611-4534-a90c-3e90c695ec94" />
+
 
 For further details or examples, please refer to the paper:  
 *Ben Saunders, Necati Cihan Camgoz, Richard Bowden - ECCV 2020*.
