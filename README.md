@@ -45,7 +45,12 @@ The **Signlinformer** model utilizes Linformer variant of transformers to reduce
 ## Acknowledgements
 - **How2Sign Dataset**: [How2Sign](https://how2sign.github.io)  
 - **OpenPose for Skeleton Extraction**: [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
-- **3D Pose Estimation**: [SignLanguageProcessing](https://github.com/gopeith/SignLanguageProcessing)  
+- **3D Pose Estimation**: [SignLanguageProcessing](https://github.com/gopeith/SignLanguageProcessing)
+## Example: Keypoints and Connectors Visualization
+
+This example shows the predicted keypoints for gesture translation using the Signlinformer model:
+
+![Keypoint Visualization](images/keypoints_visualization.png)
 
 For further details or examples, please refer to the paper:  
 *Ben Saunders, Necati Cihan Camgoz, Richard Bowden - ECCV 2020*.
